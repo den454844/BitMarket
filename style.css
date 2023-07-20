@@ -48,6 +48,7 @@ p {
 }
 
 .info {
+    display:flex;
     flex-wrap: wrap;
     width: 1100px;
     margin: 0px;
@@ -58,6 +59,7 @@ article {
     padding:30px ;
     width: 400px;
     margin:25px ;
+    border-radius:59px;
 }
 
 .article-but {
